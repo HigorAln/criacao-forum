@@ -1,7 +1,3 @@
-Starting project
-materialui
-styled-component
-jest
-typescript
-eslint
-prettier
+## Praticando...
+
+### projeto feito com proposito de treinar novas skills que fui aprendendo em algumas aulas.
