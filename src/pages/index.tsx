@@ -31,6 +31,11 @@ export default function Home({ posters }) {
     );
     setUser(response.data.email);
   };
+  useEffect(() => {
+    alert(
+      'Este projeto nao tem tratamento de erro.\nEste site foi apenas para treinamento de novas ideias',
+    );
+  }, []);
 
   useEffect(() => {
     if (auth) {
